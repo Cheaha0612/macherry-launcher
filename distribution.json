@@ -61,17 +61,6 @@
                         "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/iris-fabric-1.8.0%2Bmc1.21.1.jar",
                         "path": "mods/iris-fabric-1.8.0+mc1.21.1.jar"
                     }
-                },
-                {
-                    "id": "com.terraformersmc:modmenu:11.0.3",
-                    "name": "Mod Menu",
-                    "type": "file",
-                    "artifact": {
-                        "size": 973066,
-                        "MD5": "",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/modmenu-11.0.3.jar",
-                        "path": "mods/modmenu-11.0.3.jar"
-                    }
                 }
             ]
         }
