@@ -27,7 +27,11 @@
                     "id": "net.fabricmc:fabric-loader:0.18.6",
                     "name": "Fabric Loader",
                     "type": "fabricLoader",
-                    "version": "0.18.6"
+                    "version": "0.18.6",
+                    "artifact": {
+                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.6/1.0.1/server/jar",
+                        "path": "fabric-loader-0.18.6.jar"
+                    }
                 },
                 {
                     "id": "com.clothconfig:cloth-config:15.0.140",
