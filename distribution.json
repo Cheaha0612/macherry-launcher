@@ -71,25 +71,3 @@
                     "type": "file",
                     "artifact": {
                         "size": 973066,
-                        "MD5": "D9A3C1F26C571E3EB07EF2ED3E89D1B0",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/modmenu-11.0.3.jar",
-                        "path": "mods/modmenu-11.0.3.jar"
-                    }
-                },
-                {
-                    "id": "com.rpghud:RPG-HUD:3.10.2",
-                    "name": "RPG HUD",
-                    "type": "file",
-                    "artifact": {
-                        "size": 240553,
-                        "MD5": "88D2B37C3542BD31BB75DADE9BD51C40",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/RPG-HUD-3.10.2.jar",
-                        "path": "mods/RPG-HUD-3.10.2.jar"
-                    }
-                },
-                {
-                    "id": "com.jellysquid3:sodium:0.6.0",
-                    "name": "Sodium",
-                    "type": "file",
-                    "artifact": {
-                        "size": 1281394,
