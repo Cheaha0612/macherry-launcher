@@ -27,10 +27,7 @@
                     "id": "net.fabricmc:fabric-loader:0.18.6",
                     "name": "Fabric Loader",
                     "type": "fabricLoader",
-                    "version": "0.18.6",
-                    "artifact": {
-                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.6/1.0.1/server/jar"
-                    }
+                    "version": "0.18.6"
                 },
                 {
                     "id": "com.clothconfig:cloth-config:15.0.140",
@@ -71,3 +68,12 @@
                     "type": "file",
                     "artifact": {
                         "size": 973066,
+                        "MD5": "",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/modmenu-11.0.3.jar",
+                        "path": "mods/modmenu-11.0.3.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
