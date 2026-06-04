@@ -35,14 +35,13 @@
                     },
                     "subModules": [
                         {
-                            "id": "net.fabricmc:fabric-loader-manifest:0.18.6",
+                            "id": "fabric-loader-0.18.6-1.21.1",
                             "name": "Fabric Loader Version Manifest",
                             "type": "VersionManifest",
                             "artifact": {
                                 "size": 2847,
                                 "MD5": "A98D650BBB477D761D263EA65A70A2A0",
-                                "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/fabric-1.21.1-0.18.6.json",
-                                "path": "versions/fabric-loader-0.18.6-1.21.1/fabric-loader-0.18.6-1.21.1.json"
+                                "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/fabric-1.21.1-0.18.6.json"
                             }
                         }
                     ]
