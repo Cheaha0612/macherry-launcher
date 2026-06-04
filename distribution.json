@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "rss": "",
+    "rss": "https://example.com/feed.xml",
     "discord": {
         "clientId": "",
         "smallImageText": "",
@@ -8,62 +8,30 @@
     },
     "servers": [
         {
-            "id": "macherry-diamond-server",
-            "name": "마체리의 다이아서버",
-            "description": "마체리의 다이아서버에 오신 걸 환영합니다!",
-            "icon": "",
-            "version": "1.0.0",
-            "address": "www.macherry.p-e.kr:25565",
-            "minecraftVersion": "1.21.1",
+            "id": "my-server",
+            "name": "내 서버 이름",
+            "description": "서버 설명을 입력하세요",
+            "icon": "https://i.imgur.com/example.png",
+            "version": "1.20.1",
+            "address": "내.서버.주소:포트번호",
+            "minecraftVersion": "1.20.1",
             "discord": {
-                "shortId": "macherry-diamond-server",
-                "largeImageText": "마체리의 다이아서버",
+                "shortId": "my-server",
+                "largeImageText": "내 서버",
                 "largeImageKey": "seal-circle"
             },
             "mainServer": true,
             "autoconnect": false,
             "modules": [
                 {
-                    "id": "net.fabricmc:fabric-loader:0.18.6",
+                    "id": "net.fabricmc:fabric-loader:0.15.11",
                     "name": "Fabric Loader",
                     "type": "fabricLoader",
-                    "version": "0.18.6",
+                    "version": "0.15.11",
                     "artifact": {
-                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.6/1.0.1/server/jar",
-                        "path": "fabric-loader-0.18.6.jar"
-                    }
-                },
-                {
-                    "id": "com.clothconfig:cloth-config:15.0.140",
-                    "name": "Cloth Config",
-                    "type": "file",
-                    "artifact": {
-                        "size": 1157166,
-                        "MD5": "A2C091B027AD6BA8E54B07020FD45884",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/cloth-config-15.0.140-fabric.jar",
-                        "path": "mods/cloth-config-15.0.140-fabric.jar"
-                    }
-                },
-                {
-                    "id": "net.fabricmc:fabric-api:0.102.1",
-                    "name": "Fabric API",
-                    "type": "file",
-                    "artifact": {
-                        "size": 2291961,
-                        "MD5": "1BEF429D5A58848451240E468DA05197",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/fabric-api-0.102.1%2B1.21.1.jar",
-                        "path": "mods/fabric-api-0.102.1+1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "net.irisshaders:iris:1.8.0",
-                    "name": "Iris Shaders",
-                    "type": "file",
-                    "artifact": {
-                        "size": 2675365,
-                        "MD5": "332572BF2E29EA31693228F633699EBF",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/iris-fabric-1.8.0%2Bmc1.21.1.jar",
-                        "path": "mods/iris-fabric-1.8.0+mc1.21.1.jar"
+                        "size": 0,
+                        "MD5": "",
+                        "url": ""
                     }
                 }
             ]
