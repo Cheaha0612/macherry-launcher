@@ -41,7 +41,7 @@
                     "artifact": {
                         "size": 1157166,
                         "MD5": "A2C091B027AD6BA8E54B07020FD45884",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/cloth-config-15.0.140-fabric.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/cloth-config-15.0.140-fabric.jar",
                         "path": "mods/cloth-config-15.0.140-fabric.jar"
                     }
                 },
@@ -52,7 +52,7 @@
                     "artifact": {
                         "size": 2291961,
                         "MD5": "1BEF429D5A58848451240E468DA05197",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/fabric-api-0.102.1%2B1.21.1.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/fabric-api-0.102.1%2B1.21.1.jar",
                         "path": "mods/fabric-api-0.102.1+1.21.1.jar"
                     }
                 },
@@ -63,7 +63,7 @@
                     "artifact": {
                         "size": 2675365,
                         "MD5": "332572BF2E29EA31693228F633699EBF",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/iris-fabric-1.8.0%2Bmc1.21.1.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/iris-fabric-1.8.0%2Bmc1.21.1.jar",
                         "path": "mods/iris-fabric-1.8.0+mc1.21.1.jar"
                     }
                 },
@@ -74,7 +74,7 @@
                     "artifact": {
                         "size": 240553,
                         "MD5": "88D2B37C3542BD31BB75DADE9BD51C40",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/RPG-HUD-3.10.2.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/RPG-HUD-3.10.2.jar",
                         "path": "mods/RPG-HUD-3.10.2.jar"
                     }
                 },
@@ -85,7 +85,7 @@
                     "artifact": {
                         "size": 1281394,
                         "MD5": "7B39F46F26EAEF7A1D7026A2B7C99289",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/sodium-fabric-0.6.0%2Bmc1.21.1.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/sodium-fabric-0.6.0%2Bmc1.21.1.jar",
                         "path": "mods/sodium-fabric-0.6.0+mc1.21.1.jar"
                     }
                 },
@@ -96,7 +96,7 @@
                     "artifact": {
                         "size": 2177333,
                         "MD5": "0AE4F63C97B972EF3FDCD918C924FEB5",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/xaerominimap-fabric-1.21.1-25.3.10.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/xaerominimap-fabric-1.21.1-25.3.10.jar",
                         "path": "mods/xaerominimap-fabric-1.21.1-25.3.10.jar"
                     }
                 },
@@ -107,5 +107,11 @@
                     "artifact": {
                         "size": 1413973,
                         "MD5": "BB6A594507DC9DB0A981B2A2D6CF910C",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
                         "path": "mods/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
