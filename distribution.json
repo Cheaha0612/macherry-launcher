@@ -26,7 +26,7 @@
                 {
                     "id": "net.fabricmc:fabric-loader:0.18.6",
                     "name": "Fabric Loader",
-                    "type": "fabricLoader",
+                    "type": "Fabric",
                     "version": "0.18.6",
                     "artifact": {
                         "size": 168437,
@@ -37,7 +37,7 @@
                 {
                     "id": "com.clothconfig:cloth-config:15.0.140",
                     "name": "Cloth Config",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 1157166,
                         "MD5": "A2C091B027AD6BA8E54B07020FD45884",
@@ -48,7 +48,7 @@
                 {
                     "id": "net.fabricmc:fabric-api:0.102.1",
                     "name": "Fabric API",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 2291961,
                         "MD5": "1BEF429D5A58848451240E468DA05197",
@@ -59,7 +59,7 @@
                 {
                     "id": "net.irisshaders:iris:1.8.0",
                     "name": "Iris Shaders",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 2675365,
                         "MD5": "332572BF2E29EA31693228F633699EBF",
@@ -70,7 +70,7 @@
                 {
                     "id": "com.rpghud:RPG-HUD:3.10.2",
                     "name": "RPG HUD",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 240553,
                         "MD5": "88D2B37C3542BD31BB75DADE9BD51C40",
@@ -81,7 +81,7 @@
                 {
                     "id": "com.jellysquid3:sodium:0.6.0",
                     "name": "Sodium",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 1281394,
                         "MD5": "7B39F46F26EAEF7A1D7026A2B7C99289",
@@ -92,7 +92,7 @@
                 {
                     "id": "com.xaero:xaerominimap:25.3.10",
                     "name": "Xaero's Minimap",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 2177333,
                         "MD5": "0AE4F63C97B972EF3FDCD918C924FEB5",
@@ -103,15 +103,9 @@
                 {
                     "id": "com.xaero:xaeroworldmap:1.40.11",
                     "name": "Xaero's World Map",
-                    "type": "file",
+                    "type": "FabricMod",
                     "artifact": {
                         "size": 1413973,
                         "MD5": "BB6A594507DC9DB0A981B2A2D6CF910C",
                         "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/refs/heads/main/xaeroworldmap-fabric-1.21.1-1.40.11.jar",
                         "path": "mods/xaeroworldmap-fabric-1.21.1-1.40.11.jar"
-                    }
-                }
-            ]
-        }
-    ]
-}
