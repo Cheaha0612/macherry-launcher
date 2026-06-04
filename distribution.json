@@ -43,6 +43,76 @@
                                 "MD5": "A98D650BBB477D761D263EA65A70A2A0",
                                 "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/fabric-1.21.1-0.18.6.json"
                             }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.9",
+                            "name": "ASM",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 126122,
+                                "MD5": "6D1DD0482C03A6DC1807D9D004456021",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.9",
+                            "name": "ASM Analysis",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 35149,
+                                "MD5": "F07383CFBD50F097558341A03B8871E1",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.9",
+                            "name": "ASM Commons",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 74348,
+                                "MD5": "8103B3DE8F48FB4C7F97EFDAA46CE809",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.9",
+                            "name": "ASM Tree",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 51947,
+                                "MD5": "912EEABA1A63D574FFC66C651C7C6725",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.9",
+                            "name": "ASM Util",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 94565,
+                                "MD5": "EF5E90E736CD09BC407C1D46A3FABA0F",
+                                "url": "https://maven.fabricmc.net/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:sponge-mixin:0.17.0",
+                            "name": "Sponge Mixin",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 1505269,
+                                "MD5": "D27DCB910788A0BD4BEA72942A714093",
+                                "url": "https://maven.fabricmc.net/net/fabricmc/sponge-mixin/0.17.0+mixin.0.8.7/sponge-mixin-0.17.0+mixin.0.8.7.jar"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:intermediary:1.21.1",
+                            "name": "Intermediary",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 657725,
+                                "MD5": "850BE48A3406B9EFDF8E64B1C2DB97F8",
+                                "url": "https://maven.fabricmc.net/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                            }
                         }
                     ]
                 },
