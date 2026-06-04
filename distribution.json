@@ -29,9 +29,9 @@
                     "type": "Fabric",
                     "version": "0.18.6",
                     "artifact": {
-                        "size": 168437,
-                        "MD5": "010AE1BC7131352DB070B342EBCCA639",
-                        "url": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.18.6/1.0.1/server/jar"
+                        "size": 1959227,
+                        "MD5": "01E9DC12D3E7E3B553E34A973D2793D1",
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/fabric-loader-client.jar"
                     },
                     "subModules": [
                         {
