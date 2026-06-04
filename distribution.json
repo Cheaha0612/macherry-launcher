@@ -200,8 +200,8 @@
                     "artifact": {
                         "size": 954784,
                         "MD5": "4443556B4E0D63394F0DF1297E484454",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/BSL_v8_2_09.zip",
-                        "path": "shaderpacks/BSL_v8_2_09.zip"
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/BSL_v8.2.09.zip",
+                        "path": "shaderpacks/BSL_v8.2.09.zip"
                     }
                 },
                 {
@@ -211,8 +211,8 @@
                     "artifact": {
                         "size": 500696,
                         "MD5": "04C822B2DA584E21745869190AC653E6",
-                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/ComplementaryReimagined_r5_6_1.zip",
-                        "path": "shaderpacks/ComplementaryReimagined_r5_6_1.zip"
+                        "url": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/ComplementaryReimagined_r5.6.1.zip",
+                        "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
                     }
                 }
             ]
