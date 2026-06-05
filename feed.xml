@@ -5,29 +5,13 @@
         <link>https://cheaha0612.github.io/macherry-launcher</link>
         <description>마체리 서버 업데이트 및 공지사항</description>
         <language>ko</language>
-
-        <item>
-            <title>새로운 서버 업데이트 내역</title>
-            <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Fri, 05 Jun 2026 22:35:00 +0900</pubDate>
-            <dc:creator>마체리</dc:creator>
-            <content:encoded><![CDATA[
-                <h2>업데이트 내역</h2>
-                <ul>
-                    <li>뉴스피드 테스트1</li>
-                    <li>뉴스피드 테스트2</li>
-                    <li>뉴스피드 테스트3</li>
-                </ul>
-            ]]></content:encoded>
-        </item>
-
         <item>
             <title>서버 업데이트 내역</title>
             <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Thu, 05 Jun 2026 09:42:00 +0900</pubDate>
+            <pubDate>Thu, 05 Jun 2026 21:42:00 +0900</pubDate>
             <dc:creator>마체리</dc:creator>
             <content:encoded><![CDATA[
-                <h2>text 업데이트 내역</h2>
+                <h2>업데이트 내역</h2>
                 <h3>-기능-</h3>
                 <ul>
                     <li>마을 안에서 좀비 소환 불가능</li>
@@ -63,6 +47,5 @@
                 </ul>
             ]]></content:encoded>
         </item>
-
     </channel>
 </rss>
