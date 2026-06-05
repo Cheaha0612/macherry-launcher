@@ -9,7 +9,7 @@
     "servers": [
         {
             "id": "macherry-diamond-server",
-            "name": "마체리의 다이아서버",
+            "name": "다이아 서버",
             "description": "마체리의 다이아서버에 오신 걸 환영합니다!",
             "icon": "https://raw.githubusercontent.com/Cheaha0612/macherry-launcher/main/server-icon.png",
             "version": "1.0.0",
