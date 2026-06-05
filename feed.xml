@@ -7,16 +7,16 @@
         <language>ko</language>
 
         <item>
-            <title>새로운 서버 업데이트 내역 (예시)</title>
+            <title>새로운 서버 업데이트 내역</title>
             <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Sat, 06 Jun 2026 14:00:00 +0900</pubDate>
+            <pubDate>Fri, 05 Jun 2026 22:35:00 +0900</pubDate>
             <dc:creator>마체리</dc:creator>
             <content:encoded><![CDATA[
                 <h2>업데이트 내역</h2>
                 <ul>
                     <li>뉴스피드 테스트1</li>
                     <li>뉴스피드 테스트2</li>
-                    <li>뉴스피드 테스트2</li>
+                    <li>뉴스피드 테스트3</li>
                 </ul>
             ]]></content:encoded>
         </item>
@@ -27,12 +27,40 @@
             <pubDate>Thu, 05 Jun 2026 09:42:00 +0900</pubDate>
             <dc:creator>마체리</dc:creator>
             <content:encoded><![CDATA[
-                <h2>업데이트 내역</h2>
+                <h2>text 업데이트 내역</h2>
                 <h3>-기능-</h3>
                 <ul>
                     <li>마을 안에서 좀비 소환 불가능</li>
                     <li>마을귀환서 사용시 광장 분수 앞 이동 설정</li>
-                    </ul>
+                    <li>감옥 룰렛 결과 텍스트 추가</li>
+                    <li>감옥 결과 메세지 출력 후 5초 뒤 감옥 이동으로 수정</li>
+                    <li>감옥 내부 메세지 추가 및 사운드 추가</li>
+                    <li>감옥 수감자가 감옥에 설치된 블럭을 설치 및 파괴 불가능 설정</li>
+                    <li>처음 스폰 장소 : 분수대 앞 설정</li>
+                    <li>HUD
+                        <ul>
+                            <li>조준점을 몹한테 갖다대면 현재 몹의 피 상태가 나오도록 설정 (예: 80/150)</li>
+                            <li>현재 장착중인 무기, 방어구의 상태가 보이도록 설정</li>
+                            <li>화면 위쪽 중앙에 좌표 X,Y,Z 값이 나오도록 설정</li>
+                        </ul>
+                    </li>
+                </ul>
+                <h3>-게임 내 메세지-</h3>
+                <ul>
+                    <li>마을 안
+                        <ul>
+                            <li>"마을 안에서는 좀비가 소환되지 않습니다"</li>
+                            <li>마을 안에서는 "비상!! 좀비 10마리 출현!!" 메세지가 뜨지 않게 설정</li>
+                        </ul>
+                    </li>
+                    <li>마을 밖
+                        <ul>
+                            <li>"비상!! 좀비 10마리 출현!!"</li>
+                            <li>"마을 안에서는 좀비가 소환되지 않습니다" 메세지가 뜨지 않게 설정</li>
+                        </ul>
+                    </li>
+                    <li>채팅창에 API 테스트 로그가 모든 유저에게 출력되었던 부분 - 모든 유저에게 로그가 출력되지 않게 설정</li>
+                </ul>
             ]]></content:encoded>
         </item>
 
