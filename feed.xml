@@ -8,7 +8,7 @@
         <item>
             <title>서버 업데이트 내역</title>
             <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Thu, 05 Jun 2026 21:42:00 +0900</pubDate>
+            <pubDate>Thu, 05 Jun 2026 24:00:00 +0900</pubDate>
             <dc:creator>관리자</dc:creator>
             <content:encoded><![CDATA[
                 <h2>업데이트 내역</h2>
@@ -21,6 +21,7 @@
                     <li>감옥 내부 메세지 추가 및 사운드 추가</li>
                     <li>감옥 수감자가 감옥에 설치된 블럭을 설치 및 파괴 불가능 설정</li>
                     <li>처음 스폰 장소 : 분수대 앞 설정</li>
+                    <li>런처 BGM - 힘내 마체리 추가</li>
                     <li>HUD
                         <ul>
                             <li>조준점을 몹한테 갖다대면 현재 몹의 피 상태가 나오도록 설정 (예: 80/150)</li>
