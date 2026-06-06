@@ -9,7 +9,7 @@
         <item>
             <title>서버 업데이트 내역2</title>
             <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Sat, 06 Jun 2026 08:32:00 +0900</pubDate>
+            <pubDate>Sat, 06 Jun 2026 23:05:00 +0900</pubDate>
             <dc:creator>관리자</dc:creator>
             <content:encoded><![CDATA[
                 <h2>업데이트 내역</h2>
@@ -20,6 +20,9 @@
                     <li>서버 목록 이미지 변경</li>
                     <li>런처 소개페이지 이미지 변경</li>
                     <li>BGM이 가사가 들어간 음원에서 MR로 변경</li>
+                    <li>Play 버튼 클릭하면 로딩이 끝난 후 "게임이 실행중입니다"메세지 추가</li>
+                    <li>다운로드 후 게임이 시작되면 PLAY 버튼이 실행중 글자로 바뀌면서 어둡게 변경</li>
+                    <li>실행중으로 변경된 후에는 게임을 종료할 때까지 비활성화 상태-클릭 불가능</li>
                 </ul>
 
                 <h3>-API관련 내용-</h3>
