@@ -21,7 +21,7 @@
                 "largeImageKey": "seal-circle"
             },
             "mainServer": true,
-            "autoconnect": false,
+            "autoconnect": true,
             "modules": [
                 {
                     "id": "net.fabricmc:fabric-loader:0.18.6",
