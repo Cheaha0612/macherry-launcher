@@ -9,7 +9,7 @@
         <item>
             <title>서버 업데이트 내역2</title>
             <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Sat, 06 Jun 2026 23:05:00 +0900</pubDate>
+            <pubDate>Sat, 07 Jun 2026 13:28:00 +0900</pubDate>
             <dc:creator>관리자</dc:creator>
             <content:encoded><![CDATA[
                 <h2>업데이트 내역</h2>
@@ -36,6 +36,10 @@
                 <ul>
                     <li>수감 버그 : 수감시간이 남아있는 상태에서 게임종료 후 다시 재접속 시 감옥 밖에서 플레이가 가능했던 버그-수정완료 03:30</li>
                 </ul>
+
+                 <h3>-마인크래프트 수정-</h3>
+                <ul>
+                    <li>런처를 통해 게임에 접속하면 기존에는 멀티플레이>주소입력 방식을 통했던 방법을 없애고 바로 서버 안으로 들어가지도록 수정</li>
                 
                 <h3>-게임 컨텐츠-</h3>
                 <ul>
