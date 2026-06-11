@@ -9,7 +9,7 @@
         <item>
             <title>서버 업데이트 내역</title>
             <link>https://cheaha0612.github.io/macherry-launcher</link>
-            <pubDate>Mon, 08 Jun 2026 01:42:00 +0900</pubDate>
+            <pubDate>Mon, 11 Jun 2026 13:24:00 +0900</pubDate>
             <dc:creator>관리자</dc:creator>
             <content:encoded><![CDATA[
                 <h2>업데이트 내역</h2>
@@ -17,6 +17,7 @@
                 <ul>
                     <li>마을 곳곳 CCTV 설치</li>
                     <li>마을에 인챈트 가능한 도서관 건축 완료</li>
+                    <li>채팅-네임태그 추가</li>
                 </ul>
             ]]></content:encoded>
         </item>
